@@ -1,0 +1,58 @@
+﻿<Properties StartupConfiguration="{88947844-2CF2-40D9-AAF8-49DEF45EA262}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="src/IdentityServer/Quickstart/Account/AccountController.cs">
+    <Files>
+      <File FileName="src/IdentityServer/Startup.cs" Line="69" Column="15" />
+      <File FileName="src/IdentityServer/tempkey.rsa" />
+      <File FileName="src/IdentityServer/identityserver4_log.txt" />
+      <File FileName="src/IdentityServer/Program.cs" Line="20" Column="10" />
+      <File FileName="src/IdentityServer/Config.cs" Line="90" Column="29" />
+      <File FileName="src/Api/appsettings.json" />
+      <File FileName="src/Api/Properties/launchSettings.json" />
+      <File FileName="src/Api/Controllers/EmptyClass.cs" />
+      <File FileName="src/Api/Controllers/IdentityController.cs" />
+      <File FileName="src/Api/Startup.cs" />
+      <File FileName="src/Api/Program.cs" />
+      <File FileName="src/Client/Program.cs" />
+      <File FileName="src/Api/appsettings.Development.json" />
+      <File FileName="src/IdentityServer/Quickstart/Consent/ConsentController.cs" />
+      <File FileName="src/IdentityServer/Quickstart/Account/ExternalController.cs" />
+      <File FileName="src/IdentityServer/Quickstart/Account/ExternalProvider.cs" />
+      <File FileName="src/js-client/Startup.cs" />
+      <File FileName="src/js-client/Program.cs" />
+      <File FileName="src/js-client/appsettings.Development.json" />
+      <File FileName="src/js-client/appsettings.json" />
+      <File FileName="src/js-client/Properties/launchSettings.json" />
+      <File FileName="src/js-client/package-lock.json" />
+      <File FileName="src/js-client/wwwroot/app.js" />
+      <File FileName="src/js-client/wwwroot/callback.html" />
+      <File FileName="src/IdentityServer/wwwroot/js/signin-redirect.js" />
+      <File FileName="src/js-client/wwwroot/index.html" />
+      <File FileName="src/IdentityServer/Quickstart/Account/AccountController.cs" Line="54" Column="22" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Quickstart" expanded="True">
+            <Node name="src" expanded="True">
+              <Node name="Api" expanded="True" />
+              <Node name="IdentityServer" expanded="True">
+                <Node name="Quickstart" expanded="True">
+                  <Node name="Account" expanded="True">
+                    <Node name="AccountController.cs" selected="True" />
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.src.IdentityServer PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

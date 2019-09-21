@@ -1,0 +1,14 @@
+/Users/tanverhasan/Documents/IdentitityServer/Identity/quickstart/src/js-client/bin/Debug/netcoreapp2.2/js-client.deps.json
+/Users/tanverhasan/Documents/IdentitityServer/Identity/quickstart/src/js-client/bin/Debug/netcoreapp2.2/js-client.runtimeconfig.json
+/Users/tanverhasan/Documents/IdentitityServer/Identity/quickstart/src/js-client/bin/Debug/netcoreapp2.2/js-client.runtimeconfig.dev.json
+/Users/tanverhasan/Documents/IdentitityServer/Identity/quickstart/src/js-client/bin/Debug/netcoreapp2.2/js-client.dll
+/Users/tanverhasan/Documents/IdentitityServer/Identity/quickstart/src/js-client/bin/Debug/netcoreapp2.2/js-client.pdb
+/Users/tanverhasan/Documents/IdentitityServer/Identity/quickstart/src/js-client/obj/Debug/netcoreapp2.2/js-client.csprojAssemblyReference.cache
+/Users/tanverhasan/Documents/IdentitityServer/Identity/quickstart/src/js-client/obj/Debug/netcoreapp2.2/js-client.csproj.CoreCompileInputs.cache
+/Users/tanverhasan/Documents/IdentitityServer/Identity/quickstart/src/js-client/obj/Debug/netcoreapp2.2/js-client.RazorAssemblyInfo.cache
+/Users/tanverhasan/Documents/IdentitityServer/Identity/quickstart/src/js-client/obj/Debug/netcoreapp2.2/js-client.RazorAssemblyInfo.cs
+/Users/tanverhasan/Documents/IdentitityServer/Identity/quickstart/src/js-client/obj/Debug/netcoreapp2.2/js-client.AssemblyInfoInputs.cache
+/Users/tanverhasan/Documents/IdentitityServer/Identity/quickstart/src/js-client/obj/Debug/netcoreapp2.2/js-client.AssemblyInfo.cs
+/Users/tanverhasan/Documents/IdentitityServer/Identity/quickstart/src/js-client/obj/Debug/netcoreapp2.2/js-client.RazorTargetAssemblyInfo.cache
+/Users/tanverhasan/Documents/IdentitityServer/Identity/quickstart/src/js-client/obj/Debug/netcoreapp2.2/js-client.dll
+/Users/tanverhasan/Documents/IdentitityServer/Identity/quickstart/src/js-client/obj/Debug/netcoreapp2.2/js-client.pdb

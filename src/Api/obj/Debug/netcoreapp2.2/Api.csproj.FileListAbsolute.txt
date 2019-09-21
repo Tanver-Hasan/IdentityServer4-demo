@@ -1,0 +1,14 @@
+/Users/tanverhasan/Documents/IdentitityServer/Identity/quickstart/src/Api/bin/Debug/netcoreapp2.2/Api.deps.json
+/Users/tanverhasan/Documents/IdentitityServer/Identity/quickstart/src/Api/bin/Debug/netcoreapp2.2/Api.runtimeconfig.json
+/Users/tanverhasan/Documents/IdentitityServer/Identity/quickstart/src/Api/bin/Debug/netcoreapp2.2/Api.runtimeconfig.dev.json
+/Users/tanverhasan/Documents/IdentitityServer/Identity/quickstart/src/Api/bin/Debug/netcoreapp2.2/Api.dll
+/Users/tanverhasan/Documents/IdentitityServer/Identity/quickstart/src/Api/bin/Debug/netcoreapp2.2/Api.pdb
+/Users/tanverhasan/Documents/IdentitityServer/Identity/quickstart/src/Api/obj/Debug/netcoreapp2.2/Api.csprojAssemblyReference.cache
+/Users/tanverhasan/Documents/IdentitityServer/Identity/quickstart/src/Api/obj/Debug/netcoreapp2.2/Api.csproj.CoreCompileInputs.cache
+/Users/tanverhasan/Documents/IdentitityServer/Identity/quickstart/src/Api/obj/Debug/netcoreapp2.2/Api.RazorAssemblyInfo.cache
+/Users/tanverhasan/Documents/IdentitityServer/Identity/quickstart/src/Api/obj/Debug/netcoreapp2.2/Api.RazorAssemblyInfo.cs
+/Users/tanverhasan/Documents/IdentitityServer/Identity/quickstart/src/Api/obj/Debug/netcoreapp2.2/Api.AssemblyInfoInputs.cache
+/Users/tanverhasan/Documents/IdentitityServer/Identity/quickstart/src/Api/obj/Debug/netcoreapp2.2/Api.AssemblyInfo.cs
+/Users/tanverhasan/Documents/IdentitityServer/Identity/quickstart/src/Api/obj/Debug/netcoreapp2.2/Api.RazorTargetAssemblyInfo.cache
+/Users/tanverhasan/Documents/IdentitityServer/Identity/quickstart/src/Api/obj/Debug/netcoreapp2.2/Api.dll
+/Users/tanverhasan/Documents/IdentitityServer/Identity/quickstart/src/Api/obj/Debug/netcoreapp2.2/Api.pdb
