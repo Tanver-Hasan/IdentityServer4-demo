@@ -1,4 +1,33 @@
-node_modules
-obj
-bin
-*.txt
+/src/js-client/node_modules/*
+/src/js-client/bin/*
+/src /js-client/obj/*
+
+/src/IdentityServer/bin/*
+/src/IdentityServer/obj/*
+/src/IdentityServer/*.txt
+/src/IdentityServer/*.rsa
+
+/src/Client/bin/*
+/src/Client/obj/*
+
+.vs/Quickstart/xs
+
+/src/Api/bin/*
+/src/Api/obj/*
+
+# IDEs and editors
+/.idea
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+
+# IDE - VSCode
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+.history/*
