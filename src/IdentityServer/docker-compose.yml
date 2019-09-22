@@ -1,0 +1,37 @@
+version: "3.2"
+
+services:
+  demo:
+    image: identityserver4
+    deploy:
+      replicas: 1
+      labels:
+        com.docker.lb.hosts: app.example.org
+        com.docker.lb.network: demo-network
+        com.docker.lb.port: 8080
+        com.docker.lb.ssl_cert: demo_app.example.org.cert
+        com.docker.lb.ssl_key: demo_app.example.org.key
+    environment:
+      METADATA: proxy-handles-tls
+    networks:
+      - demo-network
+  visualizer:
+    image: dockersamples/visualizer:stable
+    ports:
+      - "8001:8080"
+    volumes:
+      - "/var/run/docker.sock:/var/run/docker.sock"
+    deploy:
+      placement:
+        constraints: [node.role == manager]
+    networks:
+      - demo-network
+
+networks:
+  demo-network:
+    driver: overlay
+secrets:
+  app.example.org.cert:
+    file: ./app.example.org.cert
+  app.example.org.key:
+    file: ./app.example.org.key

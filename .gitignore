@@ -1,14 +1,17 @@
 /src/js-client/node_modules/*
 /src/js-client/bin/*
 /src /js-client/obj/*
+/src /js-client/out/*
 
 /src/IdentityServer/bin/*
 /src/IdentityServer/obj/*
+/src/IdentityServer/out/*
 /src/IdentityServer/*.txt
 /src/IdentityServer/*.rsa
 
 /src/Client/bin/*
 /src/Client/obj/*
+/src/Client/out/*
 
 .vs/Quickstart/xs
 

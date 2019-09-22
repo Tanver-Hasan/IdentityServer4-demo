@@ -67,10 +67,10 @@ namespace IdentityServer
                     RequirePkce = true,
                     RequireClientSecret = false,
 
-                    RedirectUris =           { "http://localhost:5003/callback.html","http://localhost:4200/callback" },
+                    RedirectUris =           { "http://192.168.99.100:5003/callback.html","http://localhost:4200/callback" },
 
-                    PostLogoutRedirectUris = { "http://localhost:5003/index.html" },
-                    AllowedCorsOrigins =     { "http://localhost:5003","http://localhost:4200" },
+                    PostLogoutRedirectUris = { "http://192.168.99.100:5003/index.html" },
+                    AllowedCorsOrigins =     { "http://192.168.99.100:5003","http://localhost:4200" },
 
 
                     AllowedScopes =

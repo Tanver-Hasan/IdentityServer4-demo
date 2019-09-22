@@ -23,7 +23,7 @@ namespace Api
 			services.AddAuthentication("Bearer")
 				.AddJwtBearer("Bearer", options =>
 				{
-					options.Authority = "http://localhost:5000";
+					options.Authority = "http://192.168.99.100:5000";
 					options.RequireHttpsMetadata = false;
 					options.Audience = "http://dev.product.com";
 				});
@@ -33,7 +33,7 @@ namespace Api
 				// this defines a CORS policy called "default"
 				options.AddPolicy("default", policy =>
 				{
-					policy.WithOrigins("http://localhost:5003")
+					policy.WithOrigins("http://192.168.99.100:5003")
 						.AllowAnyHeader()
 						.AllowAnyMethod();
 				});
